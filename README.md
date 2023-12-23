@@ -1,5 +1,5 @@
 # DailyDish
-installer npm
+# installer npm
 npm install
-Lancer le projet
+# Lancer le projet
 yarn dev
